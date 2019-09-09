@@ -8,8 +8,8 @@ puts phrase
 Hello World
 nil
 puts phrase
+def say_hello_world_ten_times
 puts phrase
-def say_hello_ten_times
 puts phrase
 puts phrase
 puts phrase
